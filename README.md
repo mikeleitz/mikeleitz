@@ -1,16 +1,14 @@
-## Hi there 👋
+# Mike Leitz
 
-<!--
-**mikeleitz/mikeleitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff software engineer in Franklin, TN. 25 years of building software, lately with AI in the loop.
 
-Here are some ideas to get you started:
+I design, build, and run my own production systems: Quarkus services, Postgres, Traefik, and about 50 apps on a self-hosted Coolify/Gitea/Woodpecker setup in my office.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building**
+- [easy-easy speakeasy](https://easyeasyspeakeasy.com): a private club for experienced developers who build and ship. You get in through an SSH puzzle.
+- [LicketyScript](https://licketyscript.app): generates Bash/zsh scripts you'd actually keep.
+- [plainkit](https://getplainkit.com): a vanilla JS toolkit for multi-page HTML apps.
+
+**Writing**: [mikeleitz.com](https://mikeleitz.com) and [Simple Self Host](https://simpleselfhost.substack.com)
+
+Most of my code lives on private Gitea. Ask me about the architecture anytime.
